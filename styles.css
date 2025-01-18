@@ -16,12 +16,12 @@ body {
 }
 
 .flavor {
-  width: 49%;
+  width: 75%;
   text-align: left;
 }
 
 .price {
-  width: 49%;
+  width: 24%;
   text-align: right;
 }
 
