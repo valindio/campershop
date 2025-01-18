@@ -9,7 +9,7 @@ body {
 }
 
 .menu {
-  width: 80%;
+  max-width: 500px;
   margin-right: auto;
   margin-left: auto;
   padding: 20px;
